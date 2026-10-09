@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:58A6FF&height=180&section=header&text=HoangKyPham&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=38&desc=Frontend%20%C2%B7%20Fullstack%20Web%20Developer&descAlign=50&descAlignY=60&descSize=18" alt="header" width="100%">
+  <img src="./banner.gif" alt="HoangKyPham — Fullstack Web Developer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm HoangKyPham 👋</h1>
