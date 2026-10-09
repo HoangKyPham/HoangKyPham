@@ -35,7 +35,7 @@ def mask_text(txt, px):
     ImageDraw.Draw(m).text((0, 0), txt, font=f, fill=255)
     return m.point(lambda v: 255 if v > 100 else 0), f.getbbox(txt)[2]
 
-m_name, w_name = mask_text("HoangKyPham", 15)
+m_name, w_name = mask_text("Hoang Ky Pham", 15)
 m_sub,  w_sub  = mask_text("FULLSTACK WEB DEVELOPER", 11)
 
 def frame(t):
@@ -115,6 +115,6 @@ def frame(t):
 frames = [frame(i / FRAMES) for i in range(FRAMES)]
 master = frames[0].quantize(colors=96, method=Image.MEDIANCUT)
 pal = [f.quantize(palette=master, dither=Image.NONE) for f in frames]
-out = "/private/tmp/claude-501/-Users-kendrick/b4384c83-3ed2-42f7-8f24-474b955c492f/scratchpad/banner_gen.gif"
+out = "banner.gif"
 pal[0].save(out, save_all=True, append_images=pal[1:], duration=DUR, loop=0, optimize=True, disposal=2)
 print("written")

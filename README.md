@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./banner.gif" alt="HoangKyPham — Fullstack Web Developer" width="100%">
+  <img src="./banner.gif" alt="Hoang Ky Pham — Fullstack Web Developer" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm HoangKyPham 👋</h1>
+<h1 align="center">Hi, I'm Hoang Ky Pham 👋</h1>
 
 <p align="center">
   <a href="https://github.com/HoangKyPham">
