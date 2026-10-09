@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Hoang Ky Pham 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/HoangKyPham">
+  <a href="https://github.com/hk1682">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+%C2%B7+Fullstack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;I+ship+products%2C+not+just+components;Open+to+web+developer+opportunities" alt="Typing SVG">
   </a>
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-3FB950?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work">
   <img src="https://img.shields.io/badge/Focus-Web%20%C2%B7%20AI%20%C2%B7%20Fintech-58A6FF?style=for-the-badge&logo=target&logoColor=white" alt="Focus">
-  <img src="https://komarev.com/ghpvc/?username=HoangKyPham&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=hk1682&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,50:A371F7,100:3FB950&height=3&section=header" width="100%" alt="divider">
@@ -78,8 +78,8 @@ mindset:   "Proof of work over opinions."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HoangKyPham/DeBistro-Restaurant-Management-QR-Ordering-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangKyPham&repo=DeBistro-Restaurant-Management-QR-Ordering-System&theme=transparent&hide_border=true" alt="DeBistro">
+      <a href="https://github.com/hk1682/DeBistro-Restaurant-Management-QR-Ordering-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=DeBistro-Restaurant-Management-QR-Ordering-System&theme=transparent&hide_border=true" alt="DeBistro">
       </a>
       <p><sub>🍽️ <b>Restaurant management &amp; QR ordering platform.</b> Guests scan a table QR and order without an app; staff track orders live. Next.js App Router, TanStack Query &amp; Table, Socket.io realtime, JWT auth, QR generation, shadcn/ui.</sub></p>
       <p>
@@ -89,8 +89,8 @@ mindset:   "Proof of work over opinions."
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/HoangKyPham/lingdo-languages">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangKyPham&repo=lingdo-languages&theme=transparent&hide_border=true" alt="lingdo-languages">
+      <a href="https://github.com/hk1682/lingdo-languages">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=lingdo-languages&theme=transparent&hide_border=true" alt="lingdo-languages">
       </a>
       <p><sub>🗣️ <b>Gamified language-learning SaaS.</b> Lessons, progress tracking and hearts system with a full subscription flow — Next.js, Drizzle ORM on Neon Postgres, Clerk auth, Stripe billing, react-admin dashboard.</sub></p>
       <p>
@@ -102,8 +102,8 @@ mindset:   "Proof of work over opinions."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HoangKyPham/pokedex---graphQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangKyPham&repo=pokedex---graphQL&theme=transparent&hide_border=true" alt="pokedex---graphQL">
+      <a href="https://github.com/hk1682/pokedex---graphQL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=pokedex---graphQL&theme=transparent&hide_border=true" alt="pokedex---graphQL">
       </a>
       <p><sub>🔍 <b>GraphQL-powered Pokédex.</b> Typed queries with Apollo Client, server-side routing on React Router v7, Tailwind + shadcn UI, containerized with Docker.</sub></p>
       <p>
@@ -115,10 +115,10 @@ mindset:   "Proof of work over opinions."
     <td width="50%" valign="top">
       <h4>🧰 Also in the toolbox</h4>
       <ul>
-        <li><a href="https://github.com/HoangKyPham/furniro"><b>furniro</b></a> — Express + MongoDB REST API with JWT auth and Joi validation</li>
-        <li><a href="https://github.com/HoangKyPham/beginner-angular"><b>beginner-angular</b></a> — Angular SSR app exploring a second framework</li>
-        <li><a href="https://github.com/HoangKyPham/booking_movie_tickets_online"><b>booking_movie_tickets_online</b></a> — PHP cinema booking system</li>
-        <li><a href="https://github.com/HoangKyPham/kana-shop"><b>kana-shop</b></a> — static storefront build</li>
+        <li><a href="https://github.com/hk1682/furniro"><b>furniro</b></a> — Express + MongoDB REST API with JWT auth and Joi validation</li>
+        <li><a href="https://github.com/hk1682/beginner-angular"><b>beginner-angular</b></a> — Angular SSR app exploring a second framework</li>
+        <li><a href="https://github.com/hk1682/booking_movie_tickets_online"><b>booking_movie_tickets_online</b></a> — PHP cinema booking system</li>
+        <li><a href="https://github.com/hk1682/kana-shop"><b>kana-shop</b></a> — static storefront build</li>
       </ul>
       <p><sub>Plus private work on Python trading automation and Shopify/Hydrogen storefronts.</sub></p>
     </td>
@@ -130,31 +130,31 @@ mindset:   "Proof of work over opinions."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HoangKyPham&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
-  <img height="170" src="https://streak-stats.demolab.com/?user=HoangKyPham&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hk1682&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://streak-stats.demolab.com/?user=hk1682&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangKyPham&layout=compact&hide_border=true&theme=transparent&card_width=495&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk1682&layout=compact&hide_border=true&theme=transparent&card_width=495&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoangKyPham&theme=github_dark" alt="Repos per language">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoangKyPham&theme=github_dark" alt="Most commit language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hk1682&theme=github_dark" alt="Repos per language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hk1682&theme=github_dark" alt="Most commit language">
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoangKyPham&theme=github_dark" alt="Stats">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HoangKyPham&theme=github_dark&utcOffset=7" alt="Productive time">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hk1682&theme=github_dark" alt="Stats">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hk1682&theme=github_dark&utcOffset=7" alt="Productive time">
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoangKyPham/HoangKyPham/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoangKyPham/HoangKyPham/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/HoangKyPham/HoangKyPham/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hk1682/hk1682/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hk1682/hk1682/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/hk1682/hk1682/output/github-snake.svg">
   </picture>
 </p>
 
@@ -166,10 +166,10 @@ mindset:   "Proof of work over opinions."
   <a href="https://www.linkedin.com/in/hoangkypham">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/HoangKyPham">
+  <a href="https://github.com/hk1682">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://github.com/HoangKyPham?tab=repositories">
+  <a href="https://github.com/hk1682?tab=repositories">
     <img src="https://img.shields.io/badge/All%20Projects-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects">
   </a>
 </p>
